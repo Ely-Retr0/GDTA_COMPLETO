@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GDTA_COMPLETO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GDTA_COMPLETO_jar</output-path>
+    <root id="archive" name="GDTA_COMPLETO.jar">
+      <element id="module-output" name="GDTA_COMPLETO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jbcrypt-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-j-9.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
