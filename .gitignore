@@ -1,2 +1,8 @@
-# Project exclude paths
-/out/
+config.properties
+api_key.txt
+out/
+*.class
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
